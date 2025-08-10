@@ -121,5 +121,5 @@ Start the Backend server
 The application is deployed on Render.
 
 ## Created By
- **Kanishka Sahu**
- **Binit Girish Sahani**
+ -**Kanishka Sahu**
+ -**Binit Girish Sahani**
